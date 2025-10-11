@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ilyas Doughmi
 
 I'm a **Full Stack Developer student** at **YouCode**.  
-I’m learning **C**, **HTML**, **CSS**, and **JavaScript**.  
 I like building simple and nice websites and improving my coding skills.
 
 ### 🧠 What I’m Doing
@@ -19,4 +18,4 @@ I’m learning how to write clean code and create web projects from start to fin
 
 ### 📫 Contact
 - GitHub: [github.com/ilyas-doughmi](https://github.com/ilyas-doughmi)
-- Email: your.email@example.com
+- Email: doughmi000@gmail.com
