@@ -24,4 +24,3 @@ I’m learning how to write clean code and create web projects from start to fin
 ### 📫 Contact
 - GitHub: [github.com/ilyas-doughmi](https://github.com/ilyas-doughmi)
 - Email: doughmi000@gmail.com
-[![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/REGION/USERNAME)
