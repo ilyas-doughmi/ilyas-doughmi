@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Ilyas Doughmi
 
-I'm a **Full Stack Developer student** at **YouCode**.  
+I'm a **Full Stack Developer student** at **YouCode**.
 I like building simple and nice websites and improving my coding skills.
 
 ### 🧠 What I’m Doing
+
 I’m learning how to write clean code and create web projects from start to finish.
 
 ### 💻 Languages & Tools
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/>
@@ -16,11 +18,15 @@ I’m learning how to write clean code and create web projects from start to fin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>
 </p>
 
 ### 📫 Contact
-- GitHub: [github.com/ilyas-doughmi](https://github.com/ilyas-doughmi)
-- Email: doughmi000@gmail.com
+
+* GitHub: [github.com/ilyas-doughmi](https://github.com/ilyas-doughmi)
+* Email: [doughmi000@gmail.com](mailto:doughmi000@gmail.com)
+
