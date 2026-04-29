@@ -1,34 +1,57 @@
-# 👋 Hi, I'm Ilyas Doughmi
+<h1 align="center">👋 Hey, I'm Ilyas Doughmi</h1>
 
-I'm a **Full Stack Developer student** at **YouCode**.  
-I like building simple and nice websites and improving my coding skills.
-
-### 🧠 What I’m Doing
-
-I’m learning how to write clean code and create web projects from start to finish.
-
-### 💻 Languages & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>
+<p align="center">
+  💻 Full Stack Developer Student @ YouCode <br>
 </p>
 
-### 📫 Contact
+---
 
-* GitHub: [github.com/ilyas-doughmi](https://github.com/ilyas-doughmi)
-* Email: [doughmi000@gmail.com](mailto:doughmi000@gmail.com)
+## 🧠 About Me
+
+I build full-stack web apps from **frontend to backend**  
+Focused on **clean code & good architecture**  
+Goal: Become a skilled **Full Stack Developer**
+
+---
+
+## ⚡ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cs,lua" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,react,nuxtjs" />
+</p>
+
+### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🛠️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma" />
+</p>
+
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="https://github.com/ilyas-doughmi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  
+  <a href="mailto:doughmi000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
