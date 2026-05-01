@@ -18,29 +18,28 @@ Goal: Become a skilled **Full Stack Developer**
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cs,lua" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cs,lua,go" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,react,nuxtjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,react,nextjs,nuxtjs" />
 </p>
 
 ### 🧩 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,go" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
 ### 🛠️ Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma" />
 </p>
-
 
 ---
 
