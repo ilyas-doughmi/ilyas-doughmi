@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey, I'm Ilyas Doughmi</h1>
 
 <p align="center">
-  💻 Full Stack Developer Student @ YouCode <br>
+  Full Stack Developer Student @ YouCode Safi <br>
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I build full-stack web apps from **frontend to backend**  
 Focused on **clean code & good architecture**  
@@ -14,36 +14,36 @@ Goal: Become a skilled **Full Stack Developer**
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,php,python,c,cs,lua,go" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,react,nextjs,nuxtjs" />
 </p>
 
-### 🧩 Backend
+### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,go" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,go,nodejs,nestjs,firebase" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,supabase" />
 </p>
 
-### 🛠️ Tools & Others
+### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,gcp" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <p>
   <a href="https://github.com/ilyas-doughmi">
